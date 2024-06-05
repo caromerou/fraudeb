@@ -12,9 +12,7 @@ import pandas as pd
 
 
 
-from sklearn.metrics import classification_report, confusion_matrix, accuracy_score
-from sklearn.ensemble import GradientBoostingClassifier
-from sklearn.svm import SVC
+
 
 df = pd.read_csv('/kaggle/input/fraude/PS_20174392719_1491204439457_log.csv')
 
