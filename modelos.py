@@ -8,7 +8,6 @@ Original file is located at
 """
 
 import pandas as pd
-!pip install scikit-learn
 
 from sklearn.preprocessing import LabelEncoder, StandardScaler
 from sklearn.model_selection import train_test_split
